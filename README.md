@@ -2,6 +2,9 @@
 
 Crie um card responsível em pelo menos 2 dispositivos de uma pessoa que você julgue importante.
 
+- Conceitos de responsividade com tailwind ✅
+- Conceitos de componentização com tailwind ✅
+
 ## Resultados
 - Imagens <br><br>
 
