@@ -1,4 +1,4 @@
-![iPhone-13-PRO-localhost](https://github.com/user-attachments/assets/e679ba84-377c-42d9-aa6d-10ba6335d420)# Atividade 02 Tailwind CSS + ReactJS
+# Atividade 02 Tailwind CSS + ReactJS
 
 Crie um card responsível em pelo menos 2 dispositivos de uma pessoa que você julgue importante.
 
@@ -17,5 +17,4 @@ Crie um card responsível em pelo menos 2 dispositivos de uma pessoa que você j
 
 - Video Demonstrativo
 
-https://github.com/user-attachments/assets/670eabf2-2903-4766-a555-152b7329164e
-
+https://github.com/user-attachments/assets/362b5235-f6cf-4973-bcf2-6f808f21c30c
